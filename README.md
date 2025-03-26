@@ -6,5 +6,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=samiya-hueee&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
